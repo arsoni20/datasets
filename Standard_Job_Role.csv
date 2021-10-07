@@ -1,0 +1,74 @@
+STD_JOB_ID,STD_JOB_CONTRACT,STD_JOB_REVISION,ROW_NO,ORG_CONTRACT,ORG_CODE,DESCRIPTION,TOOLS,REMARK,ROLE_CODE,CONTRACT,CATALOG_NO,WORK_ORDER_INVOICE_TYPE,WORK_ORDER_INVOICE_TYPE_DB,QTY_TO_INVOICE,SALES_PRICE,DISCOUNT,PLAN_LINE_NO,TEAM_CONTRACT,TEAM_ID,PRICE_SOURCE,OP_STATUS_ID,C_TASK_TYPE_ID,C_TASK_TYPE_DESC,C_OP_LINE_CLASS,C_OP_LINE_CLASS_DESC,C_OP_LINE_CHAR,C_OP_LINE_CHAR_DESC,C_TASK_PURPOSE_ID,C_TASK_PURPOSE_DESC,C_MULTI_VALUES,C_MULTI_VALUES_DB,OBJID,OBJVERSION,OBJKEY10050079-010,J104,1,3010,J104,DRILLING,PERFORMANCE STANDARD - PSf20.F12 - 1Y,,"PERFORMANCE STANDARD - PSf20.F12 - 1Y                                                                                               
+
+
+According to the Performance Standard PSf20.F12 and associated standards
+stated herein, Lloyds Register Rules for MOU 6-1 Section 2, the
+following shall be performed (see Performance Standard attached to
+Equipment):
+
+
+1. Verify that the emergency lowering test is carried out and that the
+jaws are being maintained.
+
+
+Applicable Measuring Points with test results shall be updated
+accordingly.",,J104,,As Reported,AR,1,,,2,,,,,,,,,,,,,,,AAHYQRAATAADOm4AAB,1,10050079-010,J104,2,3010,J104,DRILLING,PERFORMANCE STANDARD - PSf20.F12 - 1Y,,"PERFORMANCE STANDARD - PSf20.F12 - 1Y                                                                                               
+
+
+According to the Performance Standard PSf20.F12 and associated standards
+stated herein, Lloyds Register Rules for MOU 6-1 Section 2, the
+following shall be performed (see Performance Standard attached to
+Equipment):
+
+
+1. Verify that the emergency lowering test is carried out and that the
+jaws are being maintained.
+
+
+Applicable Measuring Points with test results shall be updated
+accordingly.",,J104,,As Reported,AR,1,,0,2,,,BASE,,LGS,,PSX,,PSF20,,,,TRUE,TRUE,AAHYQRAAXAADH6SAAG,7,56009141-010,J105,5,5000,J105,DRILLING,1 MONTHLY MAINTENANCE,,"1 MONTHLY MAINTENANCE                                                                                                               
+
+
+1. Check that BOP and Diverter control is possible from all control panels (Driller and ECC) and that the panels give clear indication of BOP status and available pressure for various functions and operations. 
+
+2. Fill out comparison sheet for BOP gauge comparison and attach  to job order.
+ Sheet to be found on: (T:\04drillingdept.\bop\bop test report\bop panel  gauge comparison)or as an attachment for equipment 11560046.",,J105,,As Reported,AR,0.5,,0,1,,,BASE,10,,,OTHERS,,OTHERS-N/A,,PSX AT,,TRUE,TRUE,AAHYQRAATAAEYAgAAD,5,56009141-010,J105,4,5000,J105,DRILLING,1 MONTHLY MAINTENANCE,,"1 MONTHLY MAINTENANCE                                                                                                               
+
+
+1 monthly fill out comparison sheet for BOP gauge comparison and attach
+
+
+ to job order.
+ Sheet to be found on: (T:\04drillingdept.\bop\bop test report\bop
+panel
+ gauge comparison)or as an attachment for equipment 11560046.",,J105,,As Reported,AR,0.5,,0,1,,,BASE,10,,,OTHERS,,OTHERS-N/A,,,,FALSE,FALSE,AAHYQRAAUAADL6HAAE,3,56009141-010,J105,3,5000,J105,DRILLING,1 MONTHLY MAINTENANCE,,"1 MONTHLY MAINTENANCE                                                                                                               
+
+
+1 monthly fill out comparison sheet for BOP gauge comparison and attach
+
+
+ to job order.
+ Sheet to be found on: (T:\04drillingdept.\bop\bop test report\bop
+panel
+ gauge comparison)or as an attachment for equipment 11560046.",,J105,,As Reported,AR,0.5,,0,1,,,BASE,10,,,OTHERS,,OTHERS-N/A,,,,FALSE,FALSE,AAHYQRAAQAADI/uAAI,2,56009141-010,J105,2,5000,J105,DRILLING,1 MONTHLY MAINTENANCE,,"1 MONTHLY MAINTENANCE                                                                                                               
+
+
+1 monthly fill out comparison sheet for BOP gauge comparison and attach
+
+
+ to job order.
+ Sheet to be found on: (T:\04drillingdept.\bop\bop test report\bop
+panel
+ gauge comparison)or as an attachment for equipment 11560046.",,J105,,As Reported,AR,0.5,,0,1,,,BASE,10,,,,,,,,,,,AAHYQRAAdAADFqKAAE,2,56009141-010,J105,1,5000,J105,DRILLING,1 MONTHLY MAINTENANCE,,"1 MONTHLY MAINTENANCE                                                                                                               
+
+
+1 monthly fill out comparison sheet for BOP gauge comparison and attach
+
+
+ to job order.
+ Sheet to be found on: (T:\04drillingdept.\bop\bop test report\bop
+panel
+ gauge comparison)or as an attachment for equipment 11560046.",,J105,,As Reported,AR,0.5,,,1,,,,,,,,,,,,,,,AAHYQRAAXAADHy7AAH,1,56009141-010,J117,2,4000,J117,ELECTRON,1 YEARLY MAINTENANCE,,"1 YEARLY MAINTENANCE                                                                                                                
+
+
+According to the M-CPH-1171-26281_EN Well control equipment maintenance",,,,,,,,,,,,,,,,,,,,,,,,,,
